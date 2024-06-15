@@ -1,0 +1,6 @@
+
+-- DROP DATABASE
+DROP DATABASE IF EXISTS dog_breeds_api_db;
+
+-- CREATE DATABASE
+CREATE DATABASE dog_breeds_api_db;
